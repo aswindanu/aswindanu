@@ -24,14 +24,14 @@ SaaS CMS with Python (FastAPI, Flask, Django, Asyncio, Tornado, and others),
 Javascript (React, Next, Native, Typescript, Fastify, and others), 
 Go (Echo, Mux), Databases, and Utilities
 
-📫 Role:
+🔭 Role:
 
 - Senior Fullstack Developer (current)
 - Fullstack Developer
 - Python Developer
 - Software Engineer
 
-🌱 Contact:
+📫 Contact:
 
 Please reach out to me at aswindanu.prihastomo@gmail.com.
 Looking forward to keep in touch... :)
