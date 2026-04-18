@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ +7 Years Experience at your service ⚡
+⚡ +7 Years of Experience at Your Service ⚡
 
 💬 About Me:
 
