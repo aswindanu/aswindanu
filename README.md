@@ -1,4 +1,4 @@
-## Hi there, I'm Aswindanu 👋
+## Hi there, I'm Danu 👋
 
 <!--
 **aswindanu/aswindanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ +7 Years of Experience at Your Service ⚡
+⚡ 7 Years plus of Experience as Fullstack Developer ⚡
 
 💬 About Me:
 
-Experienced as FullStack Developer with 7 years solid experience, specializing in 
-SaaS CMS with Python (FastAPI, Flask, Django, Asyncio, Tornado, and others), 
-Javascript (React, Next, Native, Typescript, Fastify, and others), 
-Go (Echo, Mux), Databases, and Utilities
+Experienced as Senior / FullStack Developer with 7 years plus experience building scalable SaaS platforms (Law Firm, ATS, CMS) across Indonesia and Singapore. Specialized in modern high-performance backend systems (Python, Go, Typescript) and distributed architecture (Redis, RabbitMQ, Docker).
+Proven track record delivering production-grade systems, including international integrations (UK HMRC tax systems) and end-to-end SaaS platforms. Strong in system design (HLA, ERD, SDLC) and performance optimization.
 
 🔭 Role:
 
@@ -34,4 +32,4 @@ Go (Echo, Mux), Databases, and Utilities
 📫 Contact:
 
 Please reach out to me at aswindanu.prihastomo@gmail.com.
-Looking forward to keep in touch... :)
+Looking forward to keep in touch
