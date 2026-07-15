@@ -1,4 +1,4 @@
-## Hi there, I'm Danu 👋
+## Hi there, I'm Danu
 
 <!--
 **aswindanu/aswindanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ 7 Years plus of Experience as Fullstack Developer ⚡
+7 Years plus of Experience as Fullstack Developer
 
 💬 About Me:
 
