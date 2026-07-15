@@ -29,6 +29,13 @@ Proven track record delivering production-grade systems, including international
 - Python Developer
 - Software Engineer
 
+⚡ Project Highlights:
+- Tessaract SaaS ([tessaract.io](https://tessaract.io)) -> HMRC VAT UK, Client portal, Approval workflow, and so on
+- The Grail App ([thegrail.app](https://thegrail.app)) -> Product market, Payment gateway, and so on
+- ATS HR Solution SaaS ([ATS](https://dev.writink.com)) -> ATS Fullstack Development, Payment, Claude code, WABA API, and so on
+- BJBS Sharia Bank ([cms.bankbjb.co.id](https://cms.bankbjb.co.id)) -> CMS Backend Development, Reporting, and so on
+- and many more...
+
 📫 Contact:
 
 Please reach out to me at aswindanu.prihastomo@gmail.com.
