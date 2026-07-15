@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💬 About Me:
 
 Experienced as Senior / FullStack Developer with 7 years plus experience building scalable SaaS platforms (Law Firm, ATS, CMS) across **Indonesia** and **Singapore**. Specialized in modern high-performance backend systems (Python, Go, Typescript) and distributed architecture (Redis, RabbitMQ, Docker).
-Proven track record delivering production-grade systems, including international integrations (UK HMRC tax systems) and end-to-end SaaS platforms. Strong in system design (HLA, ERD, SDLC) and performance optimization. ([Portfolio](https://aswindanu.github.io))
+Proven track record delivering production-grade systems, including international integrations (UK HMRC tax systems) and end-to-end SaaS platforms. Strong in system design (HLA, ERD, SDLC) and performance optimization. [[Portfolio](https://aswindanu.github.io)]
 
 🔭 Role:
 
