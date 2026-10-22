@@ -31,12 +31,17 @@ Proven track record delivering production-grade systems, including international
 
 ⚡ Project Highlights:
 - Tessaract SaaS ([tessaract.io](https://tessaract.io)) -> HMRC VAT UK, Client portal, Approval workflow, and so on
+- ATS HR Solution SaaS ([keption.com](https://keption.com)) -> ATS Fullstack Development, LLM, Payment, Claude code, WABA API, and so on
 - The Grail App ([thegrail.app](https://thegrail.app)) -> Product market, Payment gateway, and so on
-- ATS HR Solution SaaS ([keption.com](https://keption.com)) -> ATS Fullstack Development, Payment, Claude code, WABA API, and so on
 - BJBS Sharia Bank ([cms.bankbjb.co.id](https://cms.bankbjb.co.id)) -> CMS Backend Development, Reporting, and so on
-- and many more...
+- and so on...
 
 📫 Contact:
 
 Please reach out to me at aswindanu.prihastomo@gmail.com.
+
+Kindly visit my other repos as well 
+- https://github.com/aswindanumy-cyber
+- https://github.com/aswindanutessaract
+  
 Looking forward to keep in touch
